@@ -1,10 +1,10 @@
 {
     "name": "android",
-    "name_cn": "android笔试",
+    "name_cn": "android试题",
     "md5": "71fc5dfa91baa65440f80d6740490337", 
     "icon_url": "http://emanualresource.github.io/resource/icons/android.png", 
     "url": "http://emanualresource.github.io/interview-android/dist/interview.zip", 
-    "author": "Internet", 
+    "author": "EManual", 
     "homepage":"https://github.com/EManualResource/interview-android",
     "maintainers":[  
         {
