@@ -1,15 +1,15 @@
 {
-    "name": "java",
-    "name_cn": "Java笔试面试",
-    "md5": "71fc5dfa91baa65440f80d6740490337", 
-    "icon_url": "http://emanualresource.github.io/resource/icons/java.png", 
-    "url": "http://emanualresource.github.io/interview-java/dist/interview.zip", 
-    "author": "EManual", 
-    "homepage":"https://github.com/EManualResource/interview-java",
-    "maintainers":[  
+    "name": "fontend",
+    "name_cn": "前端开发",
+    "md5": "71fc5dfa91baa65440f80d6740490337",
+    "icon_url": "http://emanualresource.github.io/resource/icons/android.png",
+    "url": "http://emanualresource.github.io/interview-frontend/dist/interview.zip",
+    "author": "EManual",
+    "homepage": "https://github.com/EManualResource/interview-frontend",
+    "maintainers": [
         {
-            "name":"Jayin Ton",
-            "email":"tonjayin@gmail.com"
+            "name": "Jayin Ton",
+            "email": "tonjayin@gmail.com"
         }
     ]
 }
