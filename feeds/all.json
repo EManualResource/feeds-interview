@@ -15,13 +15,13 @@
         ]
     },
     {
-        "name": "android",
-        "name_cn": "android试题",
+        "name": "frontend",
+        "name_cn": "前端开发",
         "md5": "71fc5dfa91baa65440f80d6740490337",
-        "icon_url": "http://emanualresource.github.io/resource/icons/android.png",
-        "url": "http://emanualresource.github.io/interview-android/dist/interview.zip",
+        "icon_url": "http://emanualresource.github.io/resource/icons/frontend.png",
+        "url": "http://emanualresource.github.io/interview-frontend/dist/interview.zip",
         "author": "EManual",
-        "homepage": "https://github.com/EManualResource/interview-android",
+        "homepage": "https://github.com/EManualResource/interview-frontend",
         "maintainers": [
             {
                 "name": "Jayin Ton",
@@ -30,13 +30,13 @@
         ]
     },
     {
-        "name": "fontend",
-        "name_cn": "前端开发",
+        "name": "java",
+        "name_cn": "Java笔试试题",
         "md5": "71fc5dfa91baa65440f80d6740490337",
-        "icon_url": "http://emanualresource.github.io/resource/icons/android.png",
-        "url": "http://emanualresource.github.io/interview-frontend/dist/interview.zip",
+        "icon_url": "http://emanualresource.github.io/resource/icons/java.png",
+        "url": "http://emanualresource.github.io/interview-java/dist/interview.zip",
         "author": "EManual",
-        "homepage": "https://github.com/EManualResource/interview-frontend",
+        "homepage": "https://github.com/EManualResource/interview-java",
         "maintainers": [
             {
                 "name": "Jayin Ton",
